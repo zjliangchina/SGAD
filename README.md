@@ -14,8 +14,7 @@ Protein-protein interactions (PPIs) represent a delicate but universal mechanism
 
 # Repo Contents
 
-- [data](data): Store PPI data sets and fasta files of proteins. The [fasta.tar.gz](data/fasta
-.tar.gz) needs to be uncompressed.
+- [data](data): Store PPI data sets and fasta files of proteins. The [fasta.tar.gz](data/fasta.tar.gz) needs to be uncompressed.
 - [evaluation_indicators](evaluation_indicators): Used to store evaluation index functions.
 - [src](src): Model, data loading and feature extraction codes.
 
