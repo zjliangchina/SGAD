@@ -1,4 +1,4 @@
-## Contents for SGAD
+## Contents of SGAD
 
 - [Overview](#overview)
 - [Repo Contents](#repo-contents)
@@ -14,9 +14,10 @@ Protein-protein interactions (PPIs) represent a delicate but universal mechanism
 
 # Repo Contents
 
-- [data](./data): Store PPI data sets and fasta files of proteins.
-- [evaluation_indicators](./evaluation_indicators): Used to store evaluation index functions.
-- [src](./src): Model, data loading and feature extraction code.
+- [data](data): Store PPI data sets and fasta files of proteins. The [fasta.tar.gz](data/fasta
+.tar.gz) needs to be uncompressed.
+- [evaluation_indicators](evaluation_indicators): Used to store evaluation index functions.
+- [src](src): Model, data loading and feature extraction codes.
 
 
 # System Requirements
@@ -43,4 +44,8 @@ git clone https://github.com/ComputeSuda/SGAD.git
 # Citation
 
 For usage of the package and associated manuscript, please cite according to the enclosed.
-
+```
+Fei Zhu, et al, Protein Interaction Network Reconstruction with a Structural Gated Attention Deep
+Model by Incorporating Network Structure Information, Journal Name, Date, Volume, Page. 
+(to be updated)
+```
