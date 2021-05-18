@@ -49,3 +49,5 @@ Fei Zhu, et al, Protein Interaction Network Reconstruction with a Structural Gat
 Model by Incorporating Network Structure Information, Journal Name, Date, Volume, Page. 
 (to be updated)
 ```
+
+This repository is distributed under [GNU General Public License v3.0](LICENSE).
